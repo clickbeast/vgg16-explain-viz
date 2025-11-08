@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="802px" height="110px" viewBox="0 0 802 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>VGG-16-Visualization.drawio(19)</title>
+    <g id="Page-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(1.000000, -58.000000)">
+            <g id="VGG-16-Visualization.drawio(19)" transform="translate(0.000000, 59.000000)">
+                <g id="layer_32" onClick={() => handleLayerClick(32)} transform="translate(680.937302, 50.350855)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 21.2792907 0 24.8258391 3.54654845 24.8258391 8.6789107 3.54654845 8.6789107 0 5.13236225"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 21.2792907 0 24.8258391 3.54654845 3.54654845 3.54654845"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 3.54654845 3.54654845 3.54654845 8.6789107 0 5.13236225"></polygon>
+                    <path d="M3.54654845,8.6789107 L3.54654845,3.54654845 L0,0 M3.54654845,3.54654845 L24.8258391,3.54654845" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_29" onClick={() => handleLayerClick(29)} transform="translate(602.913236, 39.584547)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 15.1994934 0 25.3324889 10.1329956 25.3324889 27.8657378 10.1329956 27.8657378 0 17.7327422"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 15.1994934 0 25.3324889 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 10.1329956 10.1329956 10.1329956 27.8657378 0 17.7327422"></polygon>
+                    <path d="M10.1329956,27.8657378 L10.1329956,10.1329956 L0,0 M10.1329956,10.1329956 L25.3324889,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_28" onClick={() => handleLayerClick(28)} transform="translate(586.193794, 39.457885)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 15.1994934 0 25.3324889 10.1329956 25.3324889 27.8657378 10.1329956 27.8657378 0 17.7327422"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 15.1994934 0 25.3324889 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 10.1329956 10.1329956 10.1329956 27.8657378 0 17.7327422"></polygon>
+                    <path d="M10.1329956,27.8657378 L10.1329956,10.1329956 L0,0 M10.1329956,10.1329956 L25.3324889,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_27" onClick={() => handleLayerClick(27)} transform="translate(558.834706, 39.457885)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 15.1994934 0 25.3324889 10.1329956 25.3324889 27.8657378 10.1329956 27.8657378 0 17.7327422"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 15.1994934 0 25.3324889 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 10.1329956 10.1329956 10.1329956 27.8657378 0 17.7327422"></polygon>
+                    <path d="M10.1329956,27.8657378 L10.1329956,10.1329956 L0,0 M10.1329956,10.1329956 L25.3324889,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_26" onClick={() => handleLayerClick(26)} transform="translate(542.115263, 39.331222)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 15.1994934 0 25.3324889 10.1329956 25.3324889 27.8657378 10.1329956 27.8657378 0 17.7327422"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 15.1994934 0 25.3324889 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 10.1329956 10.1329956 10.1329956 27.8657378 0 17.7327422"></polygon>
+                    <path d="M10.1329956,27.8657378 L10.1329956,10.1329956 L0,0 M10.1329956,10.1329956 L25.3324889,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_13" onClick={() => handleLayerClick(13)} transform="translate(257.378087, 22.008866)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 -3.5999632e-15 20.2659911 10.1329956 20.2659911 60.7979734 10.1329956 60.7979734 0 50.6649778"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 -3.5999632e-15 20.2659911 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 10.1329956 10.1329956 60.7979734 0 50.6649778"></polygon>
+                    <path d="M10.1329956,60.7979734 L10.1329956,10.1329956 L0,-3.5999632e-15 M10.1329956,10.1329956 L20.2659911,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_12" onClick={() => handleLayerClick(12)} transform="translate(245.725142, 22.008866)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 -3.5999632e-15 20.2659911 10.1329956 20.2659911 60.7979734 10.1329956 60.7979734 0 50.6649778"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 -3.5999632e-15 20.2659911 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 10.1329956 10.1329956 60.7979734 0 50.6649778"></polygon>
+                    <path d="M10.1329956,60.7979734 L10.1329956,10.1329956 L0,-3.5999632e-15 M10.1329956,10.1329956 L20.2659911,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_11" onClick={() => handleLayerClick(11)} transform="translate(222.925902, 22.008866)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 -3.5999632e-15 20.2659911 10.1329956 20.2659911 60.7979734 10.1329956 60.7979734 0 50.6649778"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 -3.5999632e-15 20.2659911 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 10.1329956 10.1329956 60.7979734 0 50.6649778"></polygon>
+                    <path d="M10.1329956,60.7979734 L10.1329956,10.1329956 L0,-3.5999632e-15 M10.1329956,10.1329956 L20.2659911,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_3" onClick={() => handleLayerClick(3)} transform="translate(69.411020, 0.162128)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 5.06649778 0 15.1994934 10.1329956 15.1994934 108.043065 10.1329956 108.043065 0 97.9100697"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 5.06649778 0 15.1994934 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 10.1329956 10.1329956 10.1329956 108.043065 0 97.9100697"></polygon>
+                    <path d="M10.1329956,108.043065 L10.1329956,10.1329956 L0,0 M10.1329956,10.1329956 L15.1994934,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_20" onClick={() => handleLayerClick(20)} transform="translate(401.266624, 32.901837)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 12.6662445 0 22.79924 10.1329956 22.79924 40.5319823 10.1329956 40.5319823 0 30.3989867"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 12.6662445 0 22.79924 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 10.1329956 10.1329956 10.1329956 40.5319823 0 30.3989867"></polygon>
+                    <path d="M10.1329956,40.5319823 L10.1329956,10.1329956 L0,0 M10.1329956,10.1329956 L22.79924,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_6" onClick={() => handleLayerClick(6)} transform="translate(129.702343, 12.352122)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 -1.7999816e-15 7.59974668 -1.7999816e-15 17.7327422 10.1329956 17.7327422 80.111463 10.1329956 80.111463 0 69.9784674"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 -1.7999816e-15 7.59974668 -1.7999816e-15 17.7327422 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 -1.7999816e-15 10.1329956 10.1329956 10.1329956 80.111463 0 69.9784674"></polygon>
+                    <path d="M10.1329956,80.111463 L10.1329956,10.1329956 L0,-1.7999816e-15 M10.1329956,10.1329956 L17.7327422,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_25" onClick={() => handleLayerClick(25)} transform="translate(514.756175, 39.457885)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 15.1994934 0 25.3324889 10.1329956 25.3324889 27.8657378 10.1329956 27.8657378 0 17.7327422"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 15.1994934 0 25.3324889 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 10.1329956 10.1329956 10.1329956 27.8657378 0 17.7327422"></polygon>
+                    <path d="M10.1329956,27.8657378 L10.1329956,10.1329956 L0,0 M10.1329956,10.1329956 L25.3324889,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_5" onClick={() => handleLayerClick(5)} transform="translate(120.582647, 12.352122)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 -1.7999816e-15 7.59974668 -1.7999816e-15 17.7327422 10.1329956 17.7327422 80.111463 10.1329956 80.111463 0 69.9784674"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 -1.7999816e-15 7.59974668 -1.7999816e-15 17.7327422 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 -1.7999816e-15 10.1329956 10.1329956 10.1329956 80.111463 0 69.9784674"></polygon>
+                    <path d="M10.1329956,80.111463 L10.1329956,10.1329956 L0,-1.7999816e-15 M10.1329956,10.1329956 L17.7327422,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_10" onClick={() => handleLayerClick(10)} transform="translate(211.272958, 22.008866)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 -3.5999632e-15 20.2659911 10.1329956 20.2659911 60.7979734 10.1329956 60.7979734 0 50.6649778"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 -3.5999632e-15 20.2659911 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 10.1329956 10.1329956 60.7979734 0 50.6649778"></polygon>
+                    <path d="M10.1329956,60.7979734 L10.1329956,10.1329956 L0,-3.5999632e-15 M10.1329956,10.1329956 L20.2659911,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_19" onClick={() => handleLayerClick(19)} transform="translate(387.080431, 32.901837)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 12.6662445 0 22.79924 10.1329956 22.79924 40.5319823 10.1329956 40.5319823 0 30.3989867"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 12.6662445 0 22.79924 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 10.1329956 10.1329956 10.1329956 40.5319823 0 30.3989867"></polygon>
+                    <path d="M10.1329956,40.5319823 L10.1329956,10.1329956 L0,0 M10.1329956,10.1329956 L22.79924,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_24" onClick={() => handleLayerClick(24)} transform="translate(498.036732, 39.331222)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 15.1994934 0 25.3324889 10.1329956 25.3324889 27.8657378 10.1329956 27.8657378 0 17.7327422"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 15.1994934 0 25.3324889 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 10.1329956 10.1329956 10.1329956 27.8657378 0 17.7327422"></polygon>
+                    <path d="M10.1329956,27.8657378 L10.1329956,10.1329956 L0,0 M10.1329956,10.1329956 L25.3324889,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_30" onClick={() => handleLayerClick(30)} transform="translate(634.832172, 47.690944)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 11.6529449 0 16.7194427 5.06649778 16.7194427 13.750475 5.06649778 13.750475 0 8.6839772"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 11.6529449 0 16.7194427 5.06649778 5.06649778 5.06649778"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 5.06649778 5.06649778 5.06649778 13.750475 0 8.6839772"></polygon>
+                    <path d="M5.06649778,13.750475 L5.06649778,5.06649778 L0,0 M5.06649778,5.06649778 L16.7194427,5.06649778" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_23" onClick={() => handleLayerClick(23)} transform="translate(470.677644, 39.331222)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 15.1994934 0 25.3324889 10.1329956 25.3324889 27.8657378 10.1329956 27.8657378 0 17.7327422"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 15.1994934 0 25.3324889 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 10.1329956 10.1329956 10.1329956 27.8657378 0 17.7327422"></polygon>
+                    <path d="M10.1329956,27.8657378 L10.1329956,10.1329956 L0,0 M10.1329956,10.1329956 L25.3324889,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_31" onClick={() => handleLayerClick(31)} transform="translate(658.138062, 50.350855)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 21.2792907 0 24.8258391 3.54654845 24.8258391 8.6789107 3.54654845 8.6789107 0 5.13236225"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 21.2792907 0 24.8258391 3.54654845 3.54654845 3.54654845"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 3.54654845 3.54654845 3.54654845 8.6789107 0 5.13236225"></polygon>
+                    <path d="M3.54654845,8.6789107 L3.54654845,3.54654845 L0,0 M3.54654845,3.54654845 L24.8258391,3.54654845" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_35" onClick={() => handleLayerClick(35)} transform="translate(762.001267, 50.350855)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 11.6529449 0 15.1994934 3.54654845 15.1994934 8.6789107 3.54654845 8.6789107 0 5.13236225"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 11.6529449 0 15.1994934 3.54654845 3.54654845 3.54654845"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 3.54654845 3.54654845 3.54654845 8.6789107 0 5.13236225"></polygon>
+                    <path d="M3.54654845,8.6789107 L3.54654845,3.54654845 L0,0 M3.54654845,3.54654845 L15.1994934,3.54654845" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_37" onClick={() => handleLayerClick(37)} transform="translate(784.800507, 50.229259)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 11.6529449 0 15.1994934 3.54654845 15.1994934 8.6789107 3.54654845 8.6789107 0 5.13236225"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 11.6529449 0 15.1994934 3.54654845 3.54654845 3.54654845"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 3.54654845 3.54654845 3.54654845 8.6789107 0 5.13236225"></polygon>
+                    <path d="M3.54654845,8.6789107 L3.54654845,3.54654845 L0,0 M3.54654845,3.54654845 L15.1994934,3.54654845" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_8" onClick={() => handleLayerClick(8)} transform="translate(159.088030, 12.352122)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 -1.7999816e-15 7.59974668 -1.7999816e-15 17.7327422 10.1329956 17.7327422 80.9981001 10.1329956 80.9981001 0 70.8651045"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 -1.7999816e-15 7.59974668 -1.7999816e-15 17.7327422 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 -1.7999816e-15 10.1329956 10.1329956 10.1329956 80.9981001 0 70.8651045"></polygon>
+                    <path d="M10.1329956,80.9981001 L10.1329956,10.1329956 L0,-1.7999816e-15 M10.1329956,10.1329956 L17.7327422,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_7" onClick={() => handleLayerClick(7)} transform="translate(149.968334, 12.352122)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 -1.7999816e-15 7.59974668 -1.7999816e-15 17.7327422 10.1329956 17.7327422 80.9981001 10.1329956 80.9981001 0 70.8651045"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 -1.7999816e-15 7.59974668 -1.7999816e-15 17.7327422 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 -1.7999816e-15 10.1329956 10.1329956 10.1329956 80.9981001 0 70.8651045"></polygon>
+                    <path d="M10.1329956,80.9981001 L10.1329956,10.1329956 L0,-1.7999816e-15 M10.1329956,10.1329956 L17.7327422,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_4" onClick={() => handleLayerClick(4)} transform="translate(99.810006, 12.352122)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 -1.7999816e-15 7.59974668 -1.7999816e-15 17.7327422 10.1329956 17.7327422 80.9981001 10.1329956 80.9981001 0 70.8651045"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 -1.7999816e-15 7.59974668 -1.7999816e-15 17.7327422 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 -1.7999816e-15 10.1329956 10.1329956 10.1329956 80.9981001 0 70.8651045"></polygon>
+                    <path d="M10.1329956,80.9981001 L10.1329956,10.1329956 L0,-1.7999816e-15 M10.1329956,10.1329956 L17.7327422,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_2" onClick={() => handleLayerClick(2)} transform="translate(62.824573, 0.162128)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 5.06649778 0 15.1994934 10.1329956 15.1994934 108.043065 10.1329956 108.043065 0 97.9100697"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 5.06649778 0 15.1994934 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 10.1329956 10.1329956 10.1329956 108.043065 0 97.9100697"></polygon>
+                    <path d="M10.1329956,108.043065 L10.1329956,10.1329956 L0,0 M10.1329956,10.1329956 L15.1994934,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_22" onClick={() => handleLayerClick(22)} transform="translate(440.785307, 34.300190)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 12.6662445 0 22.79924 10.1329956 22.79924 40.5319823 10.1329956 40.5319823 0 30.3989867"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 12.6662445 0 22.79924 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 10.1329956 10.1329956 10.1329956 40.5319823 0 30.3989867"></polygon>
+                    <path d="M10.1329956,40.5319823 L10.1329956,10.1329956 L0,0 M10.1329956,10.1329956 L22.79924,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_21" onClick={() => handleLayerClick(21)} transform="translate(426.599113, 34.300190)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 12.6662445 0 22.79924 10.1329956 22.79924 40.5319823 10.1329956 40.5319823 0 30.3989867"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 12.6662445 0 22.79924 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 10.1329956 10.1329956 10.1329956 40.5319823 0 30.3989867"></polygon>
+                    <path d="M10.1329956,40.5319823 L10.1329956,10.1329956 L0,0 M10.1329956,10.1329956 L22.79924,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_18" onClick={() => handleLayerClick(18)} transform="translate(362.254592, 32.901837)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 12.6662445 0 22.79924 10.1329956 22.79924 40.5319823 10.1329956 40.5319823 0 30.3989867"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 12.6662445 0 22.79924 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 10.1329956 10.1329956 10.1329956 40.5319823 0 30.3989867"></polygon>
+                    <path d="M10.1329956,40.5319823 L10.1329956,10.1329956 L0,0 M10.1329956,10.1329956 L22.79924,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_17" onClick={() => handleLayerClick(17)} transform="translate(348.068398, 32.901837)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 12.6662445 0 22.79924 10.1329956 22.79924 40.5319823 10.1329956 40.5319823 0 30.3989867"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 12.6662445 0 22.79924 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 10.1329956 10.1329956 10.1329956 40.5319823 0 30.3989867"></polygon>
+                    <path d="M10.1329956,40.5319823 L10.1329956,10.1329956 L0,0 M10.1329956,10.1329956 L22.79924,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_1" onClick={() => handleLayerClick(1)} transform="translate(44.078531, 0.162128)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 5.06649778 0 15.1994934 10.1329956 15.1994934 106.335655 10.1329956 106.335655 0 96.2026599"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 5.06649778 0 15.1994934 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 10.1329956 10.1329956 10.1329956 106.335655 0 96.2026599"></polygon>
+                    <path d="M10.1329956,106.335655 L10.1329956,10.1329956 L0,0 M10.1329956,10.1329956 L15.1994934,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_0" onClick={() => handleLayerClick(0)} transform="translate(37.492084, 0.162128)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 5.06649778 0 15.1994934 10.1329956 15.1994934 106.335655 10.1329956 106.335655 0 96.2026599"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 5.06649778 0 15.1994934 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 10.1329956 10.1329956 10.1329956 106.335655 0 96.2026599"></polygon>
+                    <path d="M10.1329956,106.335655 L10.1329956,10.1329956 L0,0 M10.1329956,10.1329956 L15.1994934,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_9" onClick={() => handleLayerClick(9)} transform="translate(188.473718, 22.008866)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 -3.5999632e-15 20.2659911 10.1329956 20.2659911 60.7979734 10.1329956 60.7979734 0 50.6649778"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 -3.5999632e-15 20.2659911 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 10.1329956 10.1329956 60.7979734 0 50.6649778"></polygon>
+                    <path d="M10.1329956,60.7979734 L10.1329956,10.1329956 L0,-3.5999632e-15 M10.1329956,10.1329956 L20.2659911,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_16" onClick={() => handleLayerClick(16)} transform="translate(322.735909, 32.901837)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 12.6662445 0 22.79924 10.1329956 22.79924 40.5319823 10.1329956 40.5319823 0 30.3989867"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 12.6662445 0 22.79924 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 10.1329956 10.1329956 10.1329956 40.5319823 0 30.3989867"></polygon>
+                    <path d="M10.1329956,40.5319823 L10.1329956,10.1329956 L0,0 M10.1329956,10.1329956 L22.79924,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_36" onClick={() => handleLayerClick(36)}>
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 -3.45933963e-15 2.53324889 -3.45933963e-15 12.6662445 10.1329956 12.6662445 106.335655 10.1329956 106.335655 0 96.2026599"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 -3.45933963e-15 2.53324889 -3.45933963e-15 12.6662445 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 -3.45933963e-15 10.1329956 10.1329956 10.1329956 106.335655 0 96.2026599"></polygon>
+                    <path d="M10.1329956,106.335655 L10.1329956,10.1329956 L0,-3.45933963e-15 M10.1329956,10.1329956 L12.6662445,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_34" onClick={() => handleLayerClick(34)} transform="translate(732.615579, 50.350855)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 21.2792907 0 24.8258391 3.54654845 24.8258391 8.6789107 3.54654845 8.6789107 0 5.13236225"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 21.2792907 0 24.8258391 3.54654845 3.54654845 3.54654845"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 3.54654845 3.54654845 3.54654845 8.6789107 0 5.13236225"></polygon>
+                    <path d="M3.54654845,8.6789107 L3.54654845,3.54654845 L0,0 M3.54654845,3.54654845 L24.8258391,3.54654845" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_33" onClick={() => handleLayerClick(33)} transform="translate(709.816339, 50.350855)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 0 21.2792907 0 24.8258391 3.54654845 24.8258391 8.6789107 3.54654845 8.6789107 0 5.13236225"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 0 21.2792907 0 24.8258391 3.54654845 3.54654845 3.54654845"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 0 3.54654845 3.54654845 3.54654845 8.6789107 0 5.13236225"></polygon>
+                    <path d="M3.54654845,8.6789107 L3.54654845,3.54654845 L0,0 M3.54654845,3.54654845 L24.8258391,3.54654845" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_15" onClick={() => handleLayerClick(15)} transform="translate(291.830272, 22.008866)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 -3.5999632e-15 20.2659911 10.1329956 20.2659911 60.7979734 10.1329956 60.7979734 0 50.6649778"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 -3.5999632e-15 20.2659911 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 10.1329956 10.1329956 60.7979734 0 50.6649778"></polygon>
+                    <path d="M10.1329956,60.7979734 L10.1329956,10.1329956 L0,-3.5999632e-15 M10.1329956,10.1329956 L20.2659911,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+                <g id="layer_14" onClick={() => handleLayerClick(14)} transform="translate(280.177327, 22.008866)">
+                    <polygon id="Path" stroke="#000000" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 -3.5999632e-15 20.2659911 10.1329956 20.2659911 60.7979734 10.1329956 60.7979734 0 50.6649778"></polygon>
+                    <polygon id="Path" fill-opacity="0.05" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 -3.5999632e-15 20.2659911 10.1329956 10.1329956 10.1329956"></polygon>
+                    <polygon id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero" points="0 -3.5999632e-15 10.1329956 10.1329956 10.1329956 60.7979734 0 50.6649778"></polygon>
+                    <path d="M10.1329956,60.7979734 L10.1329956,10.1329956 L0,-3.5999632e-15 M10.1329956,10.1329956 L20.2659911,10.1329956" id="Shape" stroke="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
