@@ -1,0 +1,159 @@
+{
+  "src/lib/components/Matrix.react copy 2.js": {
+    "description": "",
+    "displayName": "MatrixOld",
+    "methods": [
+      {
+        "name": "setEnteredItemState",
+        "docblock": null,
+        "modifiers": [],
+        "params": [
+          {
+            "name": "set",
+            "type": null
+          },
+          {
+            "name": "i",
+            "type": null
+          },
+          {
+            "name": "j",
+            "type": null
+          }
+        ],
+        "returns": null
+      }
+    ],
+    "props": {
+      "id": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "The ID used to identify this component in Dash callbacks."
+      },
+      "selectedLayer": {
+        "type": {
+          "name": "number"
+        },
+        "required": false,
+        "description": "The data that needs to be displayed"
+      },
+      "setProps": {
+        "type": {
+          "name": "func"
+        },
+        "required": false,
+        "description": "Dash-assigned callback that should be called to report property changes\nto Dash, to make them available for callbacks."
+      }
+    }
+  },
+  "src/lib/components/Matrix.react copy.js": {
+    "description": "",
+    "displayName": "MatrixOld",
+    "methods": [
+      {
+        "name": "setEnteredItemState",
+        "docblock": null,
+        "modifiers": [],
+        "params": [
+          {
+            "name": "set",
+            "type": null
+          },
+          {
+            "name": "i",
+            "type": null
+          },
+          {
+            "name": "j",
+            "type": null
+          }
+        ],
+        "returns": null
+      }
+    ],
+    "props": {
+      "id": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "The ID used to identify this component in Dash callbacks."
+      },
+      "data": {
+        "type": {
+          "name": "object"
+        },
+        "required": false,
+        "description": "The data that needs to be displayed"
+      },
+      "setProps": {
+        "type": {
+          "name": "func"
+        },
+        "required": false,
+        "description": "Dash-assigned callback that should be called to report property changes\nto Dash, to make them available for callbacks."
+      }
+    }
+  },
+  "src/lib/components/Matrix.react.js": {
+    "description": "",
+    "displayName": "MatrixOld",
+    "methods": [
+      {
+        "name": "setEnteredItemState",
+        "docblock": null,
+        "modifiers": [],
+        "params": [
+          {
+            "name": "set",
+            "type": null
+          },
+          {
+            "name": "layerID",
+            "type": null
+          }
+        ],
+        "returns": null
+      }
+    ],
+    "props": {
+      "id": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "The ID used to identify this component in Dash callbacks."
+      },
+      "selectedLayer": {
+        "type": {
+          "name": "number"
+        },
+        "required": false,
+        "description": "The layer that needs to be selected"
+      },
+      "hoverColor": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "The color of the layer when hovering over it"
+      },
+      "selectedColor": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "The color of the layer when selected"
+      },
+      "setProps": {
+        "type": {
+          "name": "func"
+        },
+        "required": false,
+        "description": "Dash-assigned callback that should be called to report property changes\nto Dash, to make them available for callbacks."
+      }
+    }
+  }
+}

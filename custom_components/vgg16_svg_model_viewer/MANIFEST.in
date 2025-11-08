@@ -1,0 +1,7 @@
+include ssp_matrix/ssp_matrix.min.js
+include ssp_matrix/ssp_matrix.min.js.map
+include ssp_matrix/metadata.json
+include ssp_matrix/package-info.json
+include README.md
+include LICENSE
+include package.json

@@ -1,0 +1,13 @@
+Package: sspMatrix
+Title: Displays a matrix
+Version: 0.0.1
+Description: Displays a matrix
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/clickbeast/ssp-matrix
+BugReports: https://github.com/clickbeast/ssp-matrix/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true
