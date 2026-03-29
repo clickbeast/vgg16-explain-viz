@@ -44,7 +44,9 @@ fig_scatter = px.scatter(data_frame=df_default, x='x', y='y', color='label')
 # --------------------------------------
 
 
-app = Dash(title='Imagenet Data Insights with VGG16')
+app = Dash(__name__,title='Imagenet Data Insights with VGG16')
+#expose
+server = app.server
 
 about_dashboard_text = html.P('Welcome to the Imagenet Data Insights with VGG16 Dashboard.'
                               ' This dashboard enables you to get insights into imagenet data'
@@ -1162,9 +1164,6 @@ def render_inspector(instance: Instance, x, y):
     ]
 
     return result
-
-
-
 
 
 

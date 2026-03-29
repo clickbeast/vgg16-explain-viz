@@ -267,6 +267,7 @@ def save_activation_to_image(data, data_dir, layer_idx, uid, scoring):
         image = Image.fromarray(normalized_rgb_image)
         path = os.path.join(data_dir,
                             f'{layer_idx}/activations/images/{layer_idx}_{uid}_{channel}_{entropy}_{magnitude}_{score}.png')
+        os.makedirs(os.path.dirname(path), exist_ok=True)
         image.save(path)
         print(f'    saved: {path}')
 
@@ -282,6 +283,7 @@ def save_activation_to_array(data, data_dir, layer_idx, uid, scoring):
         activation = data[channel]
         path = os.path.join(data_dir,
                             f'{layer_idx}/activations/raw_data/{layer_idx}_{uid}_{channel}_{entropy}_{magnitude}_{score}.npy')
+        os.makedirs(os.path.dirname(path), exist_ok=True)
         np.save(path, activation)
         #print(f'    saved: {path}')
     pass
@@ -593,5 +595,4 @@ def process_data():
 
 if __name__ == '__main__':
     process_data()
-
 
