@@ -148,7 +148,29 @@ def load_dataframe_from_csv(filename):
     return df
 
 
-def load_dimensionality_reduction_dataframes(instance: Instance):
+def get_dimensionality_reduction_csv_path(instance: Instance):
+    layer_dir = os.path.join(instance.get_data_dir(), str(instance.layer_idx))
+
+    if instance.method == 'tsne':
+        return os.path.join(layer_dir, f'tsne_{instance.layer_idx}_{instance.perplexity}.csv')
+
+    return os.path.join(layer_dir, f'pca_{instance.layer_idx}.csv')
+
+
+def load_dimensionality_reduction_dataframe(instance: Instance):
+    return load_dataframe_from_csv(get_dimensionality_reduction_csv_path(instance))
+
+
+def get_dimensionality_reduction_dataframe(instance: Instance, cache: dict):
+    if instance in cache:
+        return cache[instance]
+
+    df = load_dimensionality_reduction_dataframe(instance)
+    cache[instance] = df
+    return df
+
+
+def load_all_dimensionality_reduction_dataframes(instance: Instance):
     data_frames_out = {}
     for dataset in instance.dataset_list:
         for number_of_samples in instance.number_of_samples_list:
@@ -185,6 +207,10 @@ def load_dimensionality_reduction_dataframes(instance: Instance):
                 data_frames_out[key_instance_pca] = df
 
     return data_frames_out
+
+
+def load_dimensionality_reduction_dataframes(instance: Instance):
+    return load_all_dimensionality_reduction_dataframes(instance)
 
 
 #%%

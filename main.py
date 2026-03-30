@@ -10,7 +10,7 @@ from plotly.subplots import make_subplots
 from dash_svg import Svg, G, Path, Circle
 import ssp_matrix
 import time
-from data_manager import load_dimensionality_reduction_dataframes, Instance, Sample, is_neuron_activation, \
+from data_manager import get_dimensionality_reduction_dataframe, Instance, Sample, is_neuron_activation, \
     is_activation_available, Activation, is_instance_changed_via_input, compute_activations, get_activations, \
     get_neuron_activations, padded_2D_array, get_activation_detail
 from mapping import get_layer_type_text_description
@@ -32,11 +32,11 @@ start_instance = Instance(
     'tsne'
 )
 
-#read all the dimensionaliy reductions done, might take a while
-dim_red_dataframes = load_dimensionality_reduction_dataframes(start_instance)
+# Cache dimensionality reduction dataframes in memory after first use.
+dim_red_dataframes = {}
 
 #default
-df_default = dim_red_dataframes[start_instance]
+df_default = get_dimensionality_reduction_dataframe(start_instance, dim_red_dataframes)
 fig_scatter = px.scatter(data_frame=df_default, x='x', y='y', color='label')
 
 # --------------------------------------
@@ -474,7 +474,7 @@ def show_activation_detail_container(
                 method_selected,
             )
 
-            df = dim_red_dataframes[instance]
+            df = get_dimensionality_reduction_dataframe(instance, dim_red_dataframes)
             sample = df.loc[(df['uid'] == uid)]
 
             # extract sample object
@@ -557,10 +557,10 @@ def update_chart(dataset, number_of_samples, dimensionality_method, perplexity, 
         title = f'{dimensionality_method}'
         style = {'display': 'none'}
 
-    df = dim_red_dataframes[key]
-    df['prediction'] = df['correct_prediction'].apply(lambda x: 'circle' if x else 'x')
+    df = get_dimensionality_reduction_dataframe(key, dim_red_dataframes)
+    df_plot = df.assign(prediction=df['correct_prediction'].apply(lambda x: 'circle' if x else 'x'))
 
-    fig = px.scatter(data_frame=df, x='x', y='y', color='category')
+    fig = px.scatter(data_frame=df_plot, x='x', y='y', color='category')
 
     fig.update_layout(layout)
     fig.update_layout(title=title)
@@ -798,7 +798,7 @@ def display_activation(clickData,
         x = clickData['points'][0]['x']
         y = clickData['points'][0]['y']
 
-        df = dim_red_dataframes[instance]
+        df = get_dimensionality_reduction_dataframe(instance, dim_red_dataframes)
         sample = df.loc[(df['x'] == x) & (df['y'] == y)]
 
 
@@ -947,7 +947,7 @@ def display_activation_data(selected_sample,
         method_selected,
     )
 
-    df = dim_red_dataframes[instance]
+    df = get_dimensionality_reduction_dataframe(instance, dim_red_dataframes)
     sample = df.loc[(df['uid'] == current_uid)]
 
     # extract sample object
@@ -1064,7 +1064,7 @@ def render_activations(instance: Instance,  sample: Sample, sort='id'):
 
 #instance same but the x and y valyues changed because czncel happned now on another layer// antoher instance -> solve
 def render_inspector(instance: Instance, x, y):
-    df = dim_red_dataframes[instance]
+    df = get_dimensionality_reduction_dataframe(instance, dim_red_dataframes)
 
     sample = df.loc[(df['x'] == x) & (df['y'] == y)]
 
